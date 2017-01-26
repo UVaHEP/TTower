@@ -20,7 +20,7 @@ from ROOT import TTree
 import array
 from ROOT import TDatime
 
-branch_form = 'ch1/D:ch2/D:ch3/D:ch4/D:ch5/D:ch6/D:ch7/D'
+branch_form = 'ch0/D:ch1/D:ch2/D:ch3/D:ch4/D:ch5/D:ch6/D:ch7/D'
 dcunames = [('dcu1',0x10,15),('dcu2',0x20,15),('dcu3',0x40,15),
             ('vfeDCU9',0x10,9),('vfeDCU10',0x10,10),('vfeDCU11',0x10,11),('vfeDCU12',0x10,12)]
 
